@@ -7,6 +7,7 @@ import Dashboard from './pages/Dashboard';
 import Products from './pages/Products';
 import Transactions from './pages/Transactions';
 import PrivateRoute from './components/PrivateRoute';
+import './index.css';
 
 function App() {
   return (
